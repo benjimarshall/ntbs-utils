@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ntbs-utils/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ntbs-utils/static/js/main.75da1669.chunk.js",
+    "main.js.map": "/ntbs-utils/static/js/main.75da1669.chunk.js.map",
+    "runtime-main.js": "/ntbs-utils/static/js/runtime-main.387edf9f.js",
+    "runtime-main.js.map": "/ntbs-utils/static/js/runtime-main.387edf9f.js.map",
+    "static/js/2.d95f614b.chunk.js": "/ntbs-utils/static/js/2.d95f614b.chunk.js",
+    "static/js/2.d95f614b.chunk.js.map": "/ntbs-utils/static/js/2.d95f614b.chunk.js.map",
+    "static/js/3.fcba3fe0.chunk.js": "/ntbs-utils/static/js/3.fcba3fe0.chunk.js",
+    "static/js/3.fcba3fe0.chunk.js.map": "/ntbs-utils/static/js/3.fcba3fe0.chunk.js.map",
+    "index.html": "/ntbs-utils/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ntbs-utils/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d95f614b.chunk.js.LICENSE.txt": "/ntbs-utils/static/js/2.d95f614b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ntbs-utils/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.387edf9f.js",
+    "static/js/2.d95f614b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.75da1669.chunk.js"
+  ]
+}
